@@ -48,25 +48,13 @@ Many existing calculators either oversimplify basic operations or become overwhe
 - **Educational Value:** Serving as an exemplary project for those looking to learn PyQt6 and GUI programming in Python.
 - **User Interaction:** Enhancing the experience with immediate visual feedback (such as temporary button style changes) to make interactions intuitive ([reddit.com](https://www.reddit.com/r/learnprogramming/comments/vxfku6/how_to_write_a_readme/); [www.makeareadme.com](https://www.makeareadme.com/)).
 
-## Installation and Usage
-
-### Prerequisites
+## Prerequisites
 
 - **Python 3.x:** Ensure that Python 3 is installed on your system.
 - **PyQt6:** The application is built with PyQt6. Install it using pip.
 - **Logo Image:** Place a `logo.png` file in the project directory to display the app’s logo.
 
-### Installation Steps
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/MyCalculatorApp.git
-   cd MyCalculatorApp
-   Set Up a Virtual Environment (Optional but Recommended):
-   ```
-
-### Contributing
+## Contributing
 
 If you'd like to contribute to MyCalculatorApp, feel free to fork the repository and submit a pull request. Contributions are always welcome! Please ensure your code adheres to the following:
 
@@ -74,6 +62,6 @@ Code Style: Follow PEP8 guidelines for Python code style.
 Documentation: Update the README if necessary and add inline comments where needed.
 Tests: Ensure any new functionality is well-tested.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
