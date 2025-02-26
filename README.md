@@ -5,17 +5,20 @@
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Motivation and Purpose](#motivation-and-purpose)
-3. [Problem Statement and Objectives](#problem-statement-and-objectives)
-4. [Installation and Usage](#installation-and-usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Video Demo](#Video-Demo)
+3. [Motivation and Purpose](#motivation-and-purpose)
+4. [Problem Statement and Objectives](#problem-statement-and-objectives)
+5. [Installation and Usage](#installation-and-usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Project Overview
 
 ### Introduction
 
 **MyCalculatorApp** is a Python-based desktop application that leverages the PyQt6 framework for its user interface. The app includes basic arithmetic operations such as addition, subtraction, multiplication, and division, with a clean, intuitive interface designed for easy use.
+
+## Video Demo
 
 ### Features
 
@@ -26,10 +29,8 @@
 
 ### Technologies Used
 
-- **Python 3.x:** The main programming language.
+- **Python:** The main programming language.
 - **PyQt6:** A toolkit for creating graphical user interfaces.
-- **PyInstaller (optional):** For packaging the app as an executable.
-- **Logo Image:** For a customized look (logo.png).
 
 ## Motivation and Purpose
 
@@ -37,7 +38,7 @@ The inspiration behind **MyCalculatorApp** stems from the desire to explore the 
 
 - **Demonstrates GUI development:** Showcases how to design and implement a responsive desktop application using PyQt6.
 - **Provides a learning resource:** Offers beginners a hands-on example of how event handling, layout management, and dynamic styling work in a real-world project.
-- **Solves a common problem:** Delivers a straightforward, user-friendly interface for everyday arithmetic operations without unnecessary complexity ([freeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/); [docs.github.com](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)).
+- **Solves a common problem:** Delivers a straightforward, user-friendly interface for everyday arithmetic operations without unnecessary complexity
 
 ## Problem Statement and Objectives
 
@@ -46,7 +47,7 @@ Many existing calculators either oversimplify basic operations or become overwhe
 - **Simplicity:** A clean, minimal interface that is accessible to users of all levels.
 - **Essential Functionality:** Implementing core arithmetic operations such as addition, subtraction, multiplication, and division.
 - **Educational Value:** Serving as an exemplary project for those looking to learn PyQt6 and GUI programming in Python.
-- **User Interaction:** Enhancing the experience with immediate visual feedback (such as temporary button style changes) to make interactions intuitive ([reddit.com](https://www.reddit.com/r/learnprogramming/comments/vxfku6/how_to_write_a_readme/); [www.makeareadme.com](https://www.makeareadme.com/)).
+- **User Interaction:** Enhancing the experience with immediate visual feedback (such as temporary button style changes) to make interactions intuitive
 
 ## Prerequisites
 
