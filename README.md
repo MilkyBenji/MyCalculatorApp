@@ -1,6 +1,6 @@
-# MyCalculatorApp
+# calculator-app	
 
-**MyCalculatorApp** is a simple yet powerful calculator built with Python and PyQt6, designed to demonstrate the capabilities of graphical user interfaces (GUIs) while providing a practical tool for everyday arithmetic calculations.
+**calculator-app** is a simple yet powerful calculator built with Python and PyQt6, designed to demonstrate the capabilities of graphical user interfaces (GUIs) while providing a practical tool for everyday arithmetic calculations.
 
 ## Table of Contents
 
